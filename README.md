@@ -12,7 +12,3 @@ Toko buku
 * php artisan migrate --seed
 * php artisan serve
 * Enjoy
-
-### Credit UI Design Milik Rizal Ramadhan
-
-https://dribbble.com/shots/6847102-Book-Store
