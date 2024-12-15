@@ -1,6 +1,6 @@
 ## Bookstore
 
-Toko buku
+Sistem Menejemen Toko Buku Online
 
 ### Instalasi
 
