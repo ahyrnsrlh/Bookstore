@@ -1,0 +1,1088 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"drop",
+				"dropdown-item \tBootstrap 4.4"
+			],
+			[
+				"dropdown-menu",
+				"dropdown-menu-right \tBootstrap 4.4"
+			],
+			[
+				"dro",
+				"dropdown-menu \tBootstrap 4.4"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"Cac",
+				"Cache::forever\tStore an item in the Cache Permanently"
+			],
+			[
+				"Sch",
+				"Schema::hasTable\tCheck for existence of table"
+			],
+			[
+				"sett",
+				"setting"
+			],
+			[
+				"Tra",
+				"Transaction"
+			],
+			[
+				"use",
+				"userRepo"
+			],
+			[
+				"Use",
+				"UserRepository"
+			],
+			[
+				"us",
+				"userRepo"
+			],
+			[
+				"Us",
+				"UserRepository"
+			],
+			[
+				"form-con",
+				"form-control-sm \tBootstrap 4.4"
+			],
+			[
+				"tra",
+				"transactionRepo"
+			],
+			[
+				"Upda",
+				"UpdateStatusTransactionRequest"
+			],
+			[
+				"of",
+				"offset-6 \tBootstrap 4.4"
+			],
+			[
+				"off",
+				"offset-4 \tBootstrap 4.4"
+			],
+			[
+				"order-la",
+				"order-last \tBootstrap 4.4"
+			],
+			[
+				"traa",
+				"transactionRepo"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"transac",
+				"transaction"
+			],
+			[
+				"ac",
+				"active \tBootstrap 4.4"
+			],
+			[
+				"pagi",
+				"paginator"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pagia",
+				"paginator"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"revie",
+				"reviews"
+			],
+			[
+				"pa",
+				"payment_status"
+			],
+			[
+				"in",
+				"invoice"
+			],
+			[
+				"Pa",
+				"Payment"
+			],
+			[
+				"pro",
+				"protected"
+			],
+			[
+				"Pay",
+				"PaymentRepository"
+			],
+			[
+				"trans",
+				"transaction"
+			],
+			[
+				"tran",
+				"transaction"
+			],
+			[
+				"t",
+				"transaction"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"reu",
+				"request"
+			],
+			[
+				"CHec",
+				"CheckoutSaved"
+			],
+			[
+				"Check",
+				"CheckoutRequest"
+			],
+			[
+				"bok",
+				"books"
+			],
+			[
+				"boo",
+				"books"
+			],
+			[
+				"chec",
+				"checkoutRepo"
+			],
+			[
+				"car",
+				"cartRepo"
+			],
+			[
+				"cart",
+				"cartsArr"
+			],
+			[
+				"all",
+				"allChecked"
+			],
+			[
+				"che",
+				"checkAll"
+			],
+			[
+				"cou",
+				"countCheckedCarts"
+			],
+			[
+				"Viw",
+				"View"
+			],
+			[
+				"text-red",
+				"text-red-500 \tTailwind Class"
+			],
+			[
+				"Rev",
+				"ReviewRepository"
+			],
+			[
+				"star",
+				"starClass"
+			],
+			[
+				"rati",
+				"ratings"
+			],
+			[
+				"Redire",
+				"RedirectResponse"
+			],
+			[
+				"meth",
+				"method\tAttr"
+			],
+			[
+				"Auth",
+				"Auth::login\tLog an existing user instance into your application."
+			],
+			[
+				"auth",
+				"author"
+			],
+			[
+				"pub",
+				"Publisher"
+			],
+			[
+				"Book",
+				"BookRepositories"
+			],
+			[
+				"cate",
+				"categoryName"
+			],
+			[
+				"hea",
+				"heading"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"category",
+				"categoryRepo"
+			],
+			[
+				"Categ",
+				"CategoryRepository"
+			],
+			[
+				"pag",
+				"paginate"
+			],
+			[
+				"align-item",
+				"align-items-center \tBootstrap 4.4"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"sto",
+				"stockRepo"
+			],
+			[
+				"Stoc",
+				"StockRepository"
+			],
+			[
+				"StockS",
+				"StockSavedListener"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"Supplier",
+				"SupplierRepository"
+			],
+			[
+				"su",
+				"supplierOpt"
+			],
+			[
+				"isbn",
+				"isbnSelect"
+			],
+			[
+				"sele",
+				"selectOpt"
+			],
+			[
+				"isb",
+				"isbnSelect"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"p",
+				"public/"
+			],
+			[
+				"form-c",
+				"form-control \tBootstrap 4.4"
+			],
+			[
+				"Bok",
+				"BookRepository"
+			],
+			[
+				"oncl",
+				"onclick\tAttr"
+			],
+			[
+				"book",
+				"bookRepo"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"input",
+				"inputmask"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"categ",
+				"categoryRepo"
+			],
+			[
+				"card-t",
+				"card-title \tBootstrap 4.4"
+			],
+			[
+				"justify-co",
+				"justify-content-between \tBootstrap 4.4"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"Cate",
+				"CategoryRepository"
+			],
+			[
+				"guar",
+				"guard"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
+				"Has",
+				"Hash::make\tHash the given value."
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"admn",
+				"admins"
+			],
+			[
+				"bg-gra",
+				"bg-gray-100 \tTailwind Class"
+			],
+			[
+				"cal",
+				"classList"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"get",
+				"getCategory"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"ro",
+				"route"
+			],
+			[
+				"obj",
+				"object-fit\tproperty"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"re",
+				"repository.js"
+			],
+			[
+				"exi",
+				"exist"
+			],
+			[
+				"Ad",
+				"AdminDashboard"
+			],
+			[
+				"Das",
+				"Dashboard"
+			],
+			[
+				"Admin",
+				"AdminPost"
+			],
+			[
+				"ma",
+				"mapState"
+			],
+			[
+				"aut",
+				"authRequired"
+			],
+			[
+				"auh",
+				"authRequired"
+			],
+			[
+				"exp",
+				"expired"
+			],
+			[
+				"post",
+				"postSchema"
+			],
+			[
+				"uniq",
+				"uniqueUpdate"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"upda",
+				"updateRequest"
+			],
+			[
+				"Pos",
+				"Post"
+			],
+			[
+				"exis",
+				"exists"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/_partials/nav.blade.php",
+			"settings":
+			{
+				"buffer_size": 1890,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/_partials/admin/sidebar.blade.php",
+			"settings":
+			{
+				"buffer_size": 4722,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/_partials",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/_partials/admin"
+	],
+	"file_history":
+	[
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Controllers/Admin/AuthController.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/_partials/admin/navbar.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/routes/admin.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/_partials/admin/sidebar.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Helpers/helpers.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Providers/AppServiceProvider.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/admin/setting.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Admin/Setting.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Models/Setting.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/database/seeders/DatabaseSeeder.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/database/seeders/SettingSeeder.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/database/migrations/2021_02_17_042257_create_settings_table.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/admin/setting.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Controllers/Admin/HomeController.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/admin/home.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Repositories/TransactionRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Repositories/Repository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Controllers/HomeController.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/_partials/nav.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/transaction/show.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/admin/transaction/show.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Events/TransactionUpdated.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Listeners/TransactionUpdated.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Transaction/Payment.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Models/Payment.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Listeners/PaymentSaved.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Providers/EventServiceProvider.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Models/Transaction.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/admin/user.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Admin/User.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Repositories/UserRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Models/User.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/pdf/app/Models/User.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/admin/user.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/routes/user.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Admin/Transaction/Table.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Controllers/Admin/TransactionController.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Requests/Transaction/UpdateStatusTransactionRequest.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/admin/transaction/table.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/admin/transaction/index.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/book.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/_partials/pagination.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Controllers/TransactionController.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Providers/AuthServiceProvider.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Policies/TransactionPolicy.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Repositories/BookRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Controllers/BookController.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/review.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Review.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Transaction/Table.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Services/Transaction/TransactionService.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/transaction/table.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/data-dismiss/app/Repositories/TransactionRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/admin/app/Repositories/WaifuRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/data-dismiss/app/Repositories/ProductRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/spp/app/Repositories/GradeRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/spp/app/Repositories/YearRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/spp/app/Repositories/StudentRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/transaction/payment.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/transaction/payment.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Models/Supplier.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Repositories/PaymentRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Events/PaymentSaved.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/database/migrations/2021_02_16_023035_create_payments_table.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/database/migrations/2021_02_16_022242_create_proofs_table.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/transaction/index.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/database/migrations/2021_02_15_032422_create_book_transaction_table.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/database/migrations/2021_02_12_100244_create_transactions_table.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Cart.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/transaction/create.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Services/Cart/CartService.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Repositories/CartRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/checkout/create.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/cart.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Requests/TransactionRequest.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Models/Checkout.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Events/CheckoutSaved.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/database/migrations/2021_02_12_070209_create_checkouts_table.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Requests/CheckoutRequest.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/User/Profile.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/user/profile.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Traits/FileTrait.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/user/profile.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Controllers/CartController.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/cart.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/routes/web.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Requests/Cart/CreateCartRequest.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Models/Cart.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/cart/index.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/book/group.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Book/Group.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/database/migrations/2021_02_11_020020_create_carts_table.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Repositories/ReviewRepository.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Models/Review.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Review/Form.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/review/form.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/review/comment.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Review/Comment.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Models/Book.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/database/migrations/2021_02_10_101142_create_reviews_table.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Kernel.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Middleware/NotVerified.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/pdf/app/Http/Middleware/NotVerified.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/pdf/app/Http/Middleware/Authenticate.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/auth/verify.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Listeners/UserSaved.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Controllers/AuthController.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Services/Auth/AuthUserService.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/pdf/.env",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/.env",
+		"/home/ibrahimalanshor/Documents/project/laravel/pdf/app/Services/AuthService.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/auth/register.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Auth/Register.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/auth/login.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Auth/Login.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Events/UserSaved.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/database/migrations/2021_02_10_060840_create_detail_users_table.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Models/DetailUser.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/auth/register.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Livewire/Admin/Auth/Login.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/_layouts/auth.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/auth/login.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Http/Controllers/CategoryController.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/category/index.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/category.blade.php",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/resources/views/livewire/book/search.blade.php",
+		"/home/ibrahimalanshor/Documents/project/theme/bookstore/home/pages/post.html",
+		"/home/ibrahimalanshor/Documents/project/laravel/bookstore/app/Repositories/CategoryRepository.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 448.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Request",
+			"ADmin",
+			"muted",
+			"Logout",
+			"Profile",
+			"40px",
+			"site",
+			"cache",
+			"Component",
+			"site",
+			"@error('",
+			"div",
+			"fillable",
+			"site",
+			"photo",
+			"model",
+			"photo",
+			"string",
+			"name",
+			"photo",
+			"description",
+			"name",
+			"string",
+			"Setting",
+			"Service",
+			"text",
+			"name",
+			"Site Name",
+			"name",
+			"Site Name",
+			"site",
+			"Dashboard",
+			"user",
+			"home",
+			"Dashboard",
+			"admin",
+			"DASHBOARD",
+			"route('",
+			"('",
+			"65",
+			"44",
+			"150",
+			"totalBooks",
+			"getNewOrders",
+			"newOrders",
+			"home",
+			"view",
+			"53",
+			"Bookstore",
+			"flex",
+			"Address",
+			"b",
+			"local_date",
+			"Date",
+			"invoice",
+			"transaction",
+			"Invoice",
+			"address",
+			"name",
+			"email",
+			"Account",
+			"Status",
+			"TransactionUpdated",
+			"saved",
+			"PaymentSaved",
+			"Payment",
+			"TransactionEvent",
+			"Event",
+			"saved",
+			"delete",
+			"get",
+			"Active",
+			"FunctionName",
+			"name",
+			"email",
+			"Email",
+			"Active",
+			"Email",
+			"Active",
+			"Conf",
+			"Date",
+			"Email",
+			"Name",
+			"Dashboard",
+			"category",
+			"Supplier",
+			"truck",
+			"supplier",
+			"group",
+			"active",
+			"Confirmed",
+			"form ",
+			"warning",
+			"check",
+			"failed",
+			"Success",
+			"success",
+			"update",
+			"confirmed",
+			"button",
+			"false",
+			"UpdateStatusTransactionRequest",
+			"confirm",
+			"View",
+			"button",
+			"post",
+			"button",
+			" float-right",
+			"danger",
+			"Failed",
+			"Cancel",
+			"success",
+			"card",
+			"success",
+			"Account",
+			"btn ",
+			"Cancel",
+			"Confirm",
+			"Payment",
+			"Total",
+			"title",
+			"isbn",
+			"iteration",
+			"loop",
+			"Product",
+			"Qty",
+			"name",
+			"4F3S8J"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/_partials/nav.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/_partials/admin/sidebar.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 152.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bookstore.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "note",
+		"selected_items":
+		[
+			[
+				"note",
+				"~/Documents/project/node/note.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/project/sublime/bookstore.sublime-project"
+			],
+			[
+				"boo",
+				"~/Documents/project/sublime/bookstore.sublime-project"
+			],
+			[
+				"b",
+				"~/Documents/project/sublime/bookstore.sublime-project"
+			],
+			[
+				"bok",
+				"~/Documents/project/sublime/bookstore.sublime-project"
+			],
+			[
+				"book",
+				"~/Documents/project/sublime/bookstore.sublime-project"
+			],
+			[
+				"note-vue",
+				"~/Documents/project/js/note-vue/note-vue.sublime-project"
+			],
+			[
+				"js",
+				"~/Documents/learn/javascript/js.info/js-info.sublime-project"
+			],
+			[
+				"code",
+				"~/Documents/project/sublime/code.sublime-project"
+			],
+			[
+				"ro",
+				"~/Documents/project/sublime/roofcode.sublime-project"
+			],
+			[
+				"spp",
+				"~/Documents/project/sublime/spp.sublime-project"
+			],
+			[
+				"we",
+				"~/Documents/project/sublime/wedding.sublime-project"
+			],
+			[
+				"wed",
+				"~/Documents/project/sublime/wedding.sublime-project"
+			],
+			[
+				"lau",
+				"~/Documents/project/sublime/laundry.sublime-project"
+			],
+			[
+				"no",
+				"~/Documents/project/sublime/note-1.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 253.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
